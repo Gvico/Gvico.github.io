@@ -4,7 +4,6 @@ Le site [Gvico.eu](https://gvico.eu) contient diverses choses telles que des dé
 
 Son contenu est amené à évoluer avec le temps.
 
-![Image](https://raw.githubusercontent.com/Gvico/Gvico.github.io/master/Logo%20Gvico.jpg)
 
 ### Dépôts GitHub
 
