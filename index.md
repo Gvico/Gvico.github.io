@@ -7,7 +7,7 @@ Son contenu est amené à évoluer avec le temps.
 
 ### Dépôts GitHub
 
-- [19](https://github.com/Gvico/19) : Mon travail à 19, école de programmation belge, baseé sur 42 à Paris.
+- [19](https://github.com/Gvico/19) : Mon travail à 19, école de programmation baseé sur 42 à Paris.
 - [Gvico.github.io](https://github.com/Gvico/gvico.github.io) : Ce site web.
 
 
