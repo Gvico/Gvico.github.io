@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1572027691,
+	"version": 1572030461,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -12,6 +12,8 @@
 		"images/ske.png",
 		"images/com.png",
 		"images/tiledbackground.png",
+		"images/tiledbackground2.png",
+		"media/cluedo.m4a",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
