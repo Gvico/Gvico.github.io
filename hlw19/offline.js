@@ -1,16 +1,22 @@
 ﻿{
-	"version": 1571678405,
+	"version": 1572023249,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-2.1.1.min.js",
 		"offlineClient.js",
+		"images/tou.png",
+		"images/cas.png",
+		"images/von.png",
+		"images/bar.png",
+		"images/ske.png",
+		"images/com.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
-		"carrillo.mp4"
+		"tournefolle.mp4"
 	]
 }
