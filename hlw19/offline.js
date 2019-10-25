@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1572031098,
+	"version": 1572033293,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -12,8 +12,12 @@
 		"images/ske.png",
 		"images/com.png",
 		"images/tiledbackground.png",
-		"images/tiledbackground2.png",
+		"media/smiler.ogg",
 		"media/cluedo.ogg",
+		"media/musclor.ogg",
+		"media/droids.ogg",
+		"media/manor.ogg",
+		"media/piratas.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
